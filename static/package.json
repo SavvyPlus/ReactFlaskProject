@@ -78,7 +78,6 @@
     "material-ui": "^0.16.4",
     "mocha": "^3.0.2",
     "morgan": "^1.6.1",
-    "node-sass": "^3.4.2",
     "postcss-import": "^9.0.0",
     "postcss-loader": "^1.1.1",
     "q": "^1.4.1",
@@ -117,6 +116,11 @@
     "yargs": "^6.5.0"
   },
   "dependencies": {
-    "google-maps-react": "^2.0.2"
+    "echarts": "^4.2.0-rc.2",
+    "echarts-for-react": "^2.0.15-beta.0",
+    "google-maps-react": "^2.0.2",
+    "gulp-sass": "^4.0.2",
+    "node-gyp": "^3.8.0",
+    "node-sass": "^4.9.4"
   }
 }
